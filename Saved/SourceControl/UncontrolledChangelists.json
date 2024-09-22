@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Crounch/Crouch_Idle.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Crounch/Crouh_Walk.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Crounch/CrouchBlendSpace1D.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SL/E57XLO4LPB0KHJZLDO3OMX.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/H0/IM2O6RFRPT96A1XWRRF1UE.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Blueprints/BPI_Assasination.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/ThirdPerson/Input/Actions/IA_Assassination.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Assassintions/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/UI/WB_AssasinatePrompt.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AZ/KOQGVN4P6B849QS33J3EHU.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DU/66KLO7NB31VEEKGDBO545S.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue3.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Lean/MM_Run_Fwd.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/Users/Rig/Documents/Unreal Projects/RPG_Learning_Game/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset"
+			]
+		}
+	]
+}
